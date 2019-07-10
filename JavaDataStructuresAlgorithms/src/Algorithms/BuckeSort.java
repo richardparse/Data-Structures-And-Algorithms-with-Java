@@ -1,4 +1,4 @@
-package Algorithms;
+package algorithms;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -59,7 +59,6 @@ public class BuckeSort {
 			}
 		}
 		return new int[] { m, (int) Math.sqrt(input.length) };
-
 	}
 
 	private static int hash(int i, int[] code) {
