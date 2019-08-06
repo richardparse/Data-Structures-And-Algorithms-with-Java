@@ -10,8 +10,10 @@ import java.util.LinkedList;
 public class LinkedListDemo {
 
 	public static void main(String[] args) {
+		
 		// create a linked list
 		LinkedList ll = new LinkedList();
+		
 		// add elements to the LinkedList();
 		ll.add("F");
 		ll.add("B");
